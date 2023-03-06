@@ -1,4 +1,4 @@
-require('dotenv').config({path: 'D:/PROJECTS/openAI VS EXT/openai-ext/.env'})
+require('dotenv').config({path: 'C:\A\ai\Intellectify\.env'})
 const vscode = require('vscode');
 const { Configuration, OpenAIApi } = require("openai");
 
